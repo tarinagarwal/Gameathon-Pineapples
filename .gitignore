@@ -1,0 +1,105 @@
+# Visual Studio
+.vs/
+[Bb]inaries/
+[Oo]bj/
+[Oo]ut/
+[Bb]uild[Bb]ank/
+[Bb]uilds/
+/[Ll]og/
+
+# Unreal Engine
+/[Ii]ntermediate/
+/[Ss]aved/
+/[Dd]erived[Dd]ata[Cc]ache/
+/[Tt]emp/
+/[Tt]humbnails/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[C]onfig/*.ini
+![Cc]onfig/[Dd]efault*.ini
+![Cc]onfig/[Ee]ngine.ini
+![Cc]onfig/[Gg]ame.ini
+
+# Built UE app
+/[Bb]inaries/*.exe
+/[Bb]inaries/*-*
+/[Bb]inaries/*.dll
+/[Bb]inaries/*.so
+/[Bb]inaries/*.dylib
+
+# Crash Reports
+/[Cc]rashReportClient/
+/[Cc]rashReports/
+
+# DotNet
+.DotSettings.user
+.idea/*
+!.idea/.name
+*.DotSettings
+*.sln.cache
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.filters
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+*.tlog
+
+# IDE
+*.user
+*.sdf
+*.opensdf
+*.suo
+*.sln.docstates
+*.ncb
+
+# Packaging
+/[Ss]aved/[Aa]rchive*/
+/[Ss]aved/[C]ooked*/
+/[Ss]aved/[Ss]taged[Bb]uild*/
+/[Ss]aved/[Pp]ackages*/
+/[Ss]aved/[Ww]eb[Aa]ssets*/
+
+# Plugins
+/[Pp]lugins/*/Binaries
+/[Pp]lugins/*/Intermediate
+/[Pp]lugins/*/[Dd]erived[Dd]ata[Cc]ache
+
+# Miscellaneous
+*.pyc
+*.pyo
+__pycache__/
+.Python
+.coverage
+.coveragerc
+.tox
+egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+*.mo
+*.pot
+.ropeproject
+TAGS
+tags
+cscope.*
+build/
+dist/
+*.tar.gz
+.DS_Store
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+
+content
+Build
+build
+RawContent
