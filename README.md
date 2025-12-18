@@ -95,7 +95,7 @@ But these aren't your typical mindless zombies. They remember how you killed the
   <img src="Images/3.png" alt="Story Screenshot" width="80%"/>
 </p>
 
-📄 **Full Lore Video:** [Read the complete backstory](https://drive.google.com/file/d/1nZx-pijxS7Zu7gxmRN_WGR16pFKJd-R7/view?usp=sharing)
+📄 **Full Lore Video:** [Watch the complete backstory](https://drive.google.com/file/d/1nZx-pijxS7Zu7gxmRN_WGR16pFKJd-R7/view?usp=sharing)
 
 ---
 
