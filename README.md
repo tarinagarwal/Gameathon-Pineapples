@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#-download">Download</a> •
-  <a href="#-gameplay-video">Gameplay</a> •
+  <a href="#-videos">Gameplay</a> •
   <a href="#-lore">Lore</a> •
   <a href="#-features">Features</a> •
   <a href="#-controls">Controls</a>
