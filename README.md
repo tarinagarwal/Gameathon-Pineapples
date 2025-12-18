@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/1.png" alt="Dimensional Dead Banner" width="100%"/>
+  <img src="Images/main.png" alt="Dimensional Dead Banner" width="100%"/>
 </p>
 
 <h1 align="center">🧟 DIMENSIONAL DEAD 🧟</h1>
