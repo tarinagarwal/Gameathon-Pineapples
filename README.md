@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🏆%20WINNER-GAMEATHON%202K26-gold?style=for-the-badge" alt="Winner"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205.2-blue?style=for-the-badge&logo=unrealengine" alt="Unreal Engine 5.2"/>
   <img src="https://img.shields.io/badge/AI-Reinforcement%20Learning-red?style=for-the-badge" alt="RL AI"/>
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Windows"/>
@@ -214,8 +218,20 @@ Spawn → Explore Area → Encounter Enemies → Combat (AI learns)
 ## 👥 Team Pineapples 🍍
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🏆-GAMEATHON%202K26%20WINNERS-gold?style=for-the-badge" alt="Winners"/>
+</p>
+
+<p align="center">
   <b>TECHNEX 25-26 | GAMEATHON 2K26</b>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">👤 <b>Tarin Agarwal</b></td>
+    <td align="center">👤 <b>Sarthak Patel</b></td>
+    <td align="center">👤 <b>Shashank Pandey</b></td>
+  </tr>
+</table>
 
 ---
 
